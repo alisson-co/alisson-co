@@ -1,5 +1,5 @@
 # Hi! I'm Alisson! 👋
-### I am a Front End developer student at IFC from Brazil.
+### I am a Front End developer.
 </br></br>
 
 - 👨‍🎓 Front End Developer student.
