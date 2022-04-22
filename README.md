@@ -8,5 +8,5 @@
 </br></br>
 
 #### Reach me at:
-[![Linkedin Badge](https://raw.githubusercontent.com/alisson-co/img/6746f5314b2f9890892dd15ff577e0538e228c08/linkedin.svg?token=ARLQKTUE6OP7FUAHMQ63DCTCMILBY)](https://www.linkedin.com/in/alisson-co/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-co/)
 
