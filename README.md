@@ -2,7 +2,7 @@
 ### I am a Front End developer.
 </br>
 
-- 👨‍🎓 Front End Developer student.
+- 👨‍🎓 Front End Developer.
 - 💻 Work with Web Development.
 - 📱  My main stacks are JavaScript and ReactJS.
 </br>
